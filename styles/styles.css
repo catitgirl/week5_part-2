@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Aleo:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Actor&display=swap');
+hr {
+width: 1000.6px;
+height: 0px;
+left: 240.69px;
+border: 1px solid gray;
+}
+
+* {
+    box-sizing: border-box;
+  }
+
+.flex-container
+{
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  padding-inline-start: 15%;
+    font-family: 'Aleo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    color: #828282;
+}
+
+.flex-item {
+  width: 200px;
+}
+    
+        h1 {  
+            /* Natali Grigoryan */
+display: flex;
+justify-content: left;
+margin-left: 300px;
+font-family: "Aleo";
+font-style: normal;
+font-weight: 700;
+font-size: 47px;
+        }
+
+        h2 {
+            /* Frontend developer 33 years old, Yerevan */
+display: flex;
+justify-content: right;
+margin-right: 500px;
+font-family: "Actor";
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+        }
+        .avatar {
+            display: block;
+            margin: 0 auto;
+            width: 950px;
+            height: 510px;
+        }
+        
+          .rectangle {  
+            display: flex; 
+            flex-direction: column-reverse;
+height: 400px;
+background: lightgray;
+height: 170.02px;
+font-family: "Actor";
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 20px;
+          }
+
+          p {
+        display: flex;
+        margin: auto;
+          }
+img {
+display: block;
+margin: auto;
+}
+          
